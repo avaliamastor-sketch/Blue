@@ -248,4 +248,4 @@ async def autoreact_list(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTUwOTkyNzUxMTc0NjgwNTg4MQ.G7oqpQ.IqlvllQ5SUPcEzexmy4NR7CFAKrbPR3x43U798")
